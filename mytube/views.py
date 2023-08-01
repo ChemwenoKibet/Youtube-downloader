@@ -15,4 +15,3 @@ def youtube(request):
 
         return render(request, 'youtube.html')
     return render(request, 'youtube.html')
-
